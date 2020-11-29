@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tallerHttp</string>
+    <string name="neigh_find">Filtrar por municipio</string>
+</resources>
