@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
             public Map getHeaders() throws AuthFailureError {
                 HashMap headers = new HashMap();
                 // headers.put("Content-Type", "application/json");
-                headers.put("X-Auth-Token", "df875ad8e5ac477cb91ca3687c170e6c");
+                headers.put("X-Auth-Token", "0ACdcJJKCFXsEVM6TD7mqwZcJ");
                 return headers;
             }
         };
